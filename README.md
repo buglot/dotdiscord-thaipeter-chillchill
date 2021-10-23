@@ -2,6 +2,7 @@
 
 
 สิ่งที่ต้องการ
+
 pip install discord 
 
 pip install discord.py[voice]
