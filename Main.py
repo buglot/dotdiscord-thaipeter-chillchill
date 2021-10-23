@@ -86,4 +86,4 @@ async def หรม(ctx,*,num):
     c=np.gcd.reduce(x)
     await ctx.send(f'หรม คือ {c}    {ctx.author.mention}')
 
-client.run('ODk3ODM2NjQ3MjI2NDI1MzQ1.YWbdiQ.yxPsNcTYOZPtYSSn0Q6AHnb5AV4')
+client.run('token')
